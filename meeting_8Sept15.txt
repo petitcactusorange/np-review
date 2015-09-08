@@ -1,0 +1,40 @@
+## Meeting 8 Septembre 2015
+
+* Idée générale : un papier compréhensible par un étudiant qui commence à s'intéresser au NP seaches 
+au LHC. 
+Pas une review pédante des détails des différentes analyses, ce qui serait obsolète très rapidement.
+Expliquer les idées générales derrière les recherches, et possiblement souligner la complementarité 
+de LHCb vs CMS/ATLAS. Pour les résultats à considérer, se limiter au Run1 (sauf sion découvre la NP 
+cependant!). 
+
+* Longueur : max 30 pages (entre 10 et 30)
+
+* Timing :  initialement submit draft november 2015, on a écrit pour deeplacer à late Winter 2016. 
+
+* Tentative table of contents
+1 - Intro (SM, NP blabla) (with short mention to direct VS indirect searches? (genre DM, WIMP etc..ou même pas)
+2 - The LHC potential : LHCb vs ATLAS/CMS 
+L'idée ici est de faire 2 exemples d'analyses de LHCb et CMS/ATLAS et expliquer comment elles contraignent 
+(dans l'ideal, de façon differente et complemetaire) l'espace de phases dans un modèle donné. Dans l'idéal, 
+cette section peut contenir un petit travail phéno originale.
+3 - Analyses review (faire un résumé rapide des grandes familles des 'searches' qu'on fait)
+ - LHCb
+ - ATLAS/CMS
+4 - Conclusions
+--peut-être section 2 et 3 peuvent être en ordre inversé. 
+
+* Questions diverses
+- Modèles utilisés : dans LHCb pas de comparaison avec NP dans les papiers, dans CMS souvent oui.
+Dans tous les cas on a les résultats exp, on peut extrapoler la contrainte sur un modèle de choix.
+- Y a -t-il des groupes de travail déjà existant CMS/LHCb?
+ils sont en train d'essayer de faire 'FlavorAtLHC' (LHCb+CMS/ATLAS), pas très avancé, à garder a l'esprit 
+si ça peut-être intéressant,
+
+* To do list
+- (Y+V) trouver les deux exemples d'analyse qu'on veut utiliser (Z'? Lepton Universality? LFV?)
+- (Viola) se renseigner sur l'existence d'un framework utilisable pour extraire les contraintes 
+combinées (voir SModelS, FastLim, MA5 PAD et des trucs comme ça...)
+- (Y+V) il serait bien de trouver des théoriciens interesses pour une relecture/conseils (Sachs Davidson, 
+Sebastien Descotes) -- leur demander à l'occasion
+- (Y+V) se renseigner sur les procedures à faire dans les collaborations avec le editorial board etc 
+pour pouvoir publier une review (genre les informer avant etc)
