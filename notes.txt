@@ -1,3 +1,12 @@
+An example to be discussed : 
+
+Lepton Universality 
+
+ . Ref :http://arxiv.org/pdf/0807.4721v1.pdf
+   Anatomy and Phenomenology of the Lepton Flavor Universality in SUSY Theories
+
+
+
 
 Things we would like to mention : 
 
@@ -8,6 +17,10 @@ Things we would like to mention :
 - what is the state before run I of the LHC  
  
 - The "tensions" P'5, RK etc. 
+
+
+
+
 
 
 
