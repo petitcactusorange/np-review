@@ -22,14 +22,20 @@ Experimental papers :
 Need to find the CMS/ATLAS equivalent.
 
   Example of a review.
- . Ref :http://arxiv.org/pdf/0807.4721v1.pdf
+
+ . Ref: http://arxiv.org/pdf/0807.4721v1.pdf
    Anatomy and Phenomenology of the Lepton Flavor Universality in SUSY Theories
 
+ . Ref: http://arxiv.org/pdf/1505.05164v1.pdf
+   Lepton universality violation and lepton flavor conservation in B-meson decays
+   Interesting "For example, a connection between B-decays and top physics is pointed out"
 
+  . http://www.sciencedirect.com/science/article/pii/S0370269315000593
 
+  . Ref with a Z'
+    http://arxiv.org/pdf/1508.07009v1.pdf  
 
 Things we would like to mention :
-
 - The point of indirect searches ex :
   .  prediction of charm quark from kaon physics and/or the mass of the top qurark from B mixing.
 
