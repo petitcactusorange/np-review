@@ -1,16 +1,19 @@
 
 We chose an example of a test that can be done at LHCb and CMS/ATLAS
 
+
+
+
+----------------------------------------------------------------------------------------
 Questions :
 - Why do we care about lepton universality ?
 - What could it mean if it were to be violated ?
 - What would it help to understand on the grand scheme of things?
 
 
-
-
-
+----------------------------------------------------------------------------------------
 Experimental papers :
+
    Measurement from LHCb :
    Phys. Rev. Lett. 113, 151601 (2014)
    http://physics.aps.org/featured-article-pdf/10.1103/PhysRevLett.113.151601
@@ -20,8 +23,8 @@ Experimental papers :
 
 
 Need to find the CMS/ATLAS equivalent.
-
-  Example of a review.
+----------------------------------------------------------------------------------------
+Theory and phenomenology papers :
 
  . Ref: http://arxiv.org/pdf/0807.4721v1.pdf
    Anatomy and Phenomenology of the Lepton Flavor Universality in SUSY Theories
@@ -32,14 +35,15 @@ Need to find the CMS/ATLAS equivalent.
 
   . http://www.sciencedirect.com/science/article/pii/S0370269315000593
 
-  . Ref with a Z'
-    http://arxiv.org/pdf/1508.07009v1.pdf  
-
-Things we would like to mention :
-- The point of indirect searches ex :
-  .  prediction of charm quark from kaon physics and/or the mass of the top qurark from B mixing.
+  . Ref with a Z' and quantitative predictions
+    http://arxiv.org/pdf/1508.07009v1.pdf
 
 
-- what is the state before run I of the LHC
+----------------------------------------------------------------------------------------
+Things we would like to mention (not ordered list) :
 
-- The "tensions" P'5, RK etc.
+  . The point of indirect searches ex :
+  . Maybe talk about effective hamiltonian and factorization in the introduction.
+  . prediction of charm quark from kaon physics and/or the mass of the top qurark from B mixing.
+  . Where were we before RUN I ?
+  . List the tentions that we are left with at the end of RUN I ex : P'5, RK etc.
