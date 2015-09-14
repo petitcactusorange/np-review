@@ -43,7 +43,8 @@ Theory and phenomenology papers :
 Things we would like to mention (not ordered list) :
 
   . The point of indirect searches ex :
-  . Maybe talk about effective hamiltonian and factorization in the introduction.
+  . Maybe talk about effective hamiltonian and factorization in the introduction :
+    http://arxiv.org/pdf/hep-ph/9806471.pdf
   . prediction of charm quark from kaon physics and/or the mass of the top qurark from B mixing.
   . Where were we before RUN I ?
   . List the tentions that we are left with at the end of RUN I ex : P'5, RK etc.
