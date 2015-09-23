@@ -37,14 +37,35 @@ Theory and phenomenology papers :
 
   . Ref with a Z' and quantitative predictions
     http://arxiv.org/pdf/1508.07009v1.pdf
+    http://arxiv.org/pdf/1403.1269v2.pdf
 
 
+
+ . Mixing and Susy :
+   http://arxiv.org/pdf/1308.3653v2.pdf
+
+ . What about light higgs stuff
+   http://arxiv.org/pdf/hep-ph/0604121v3.pdf
 ----------------------------------------------------------------------------------------
 Things we would like to mention (not ordered list) :
 
   . The point of indirect searches ex :
   . Maybe talk about effective hamiltonian and factorization in the introduction :
-    http://arxiv.org/pdf/hep-ph/9806471.pdf
+    for ex : http://arxiv.org/pdf/hep-ph/9806471.pdf
   . prediction of charm quark from kaon physics and/or the mass of the top qurark from B mixing.
   . Where were we before RUN I ?
   . List the tentions that we are left with at the end of RUN I ex : P'5, RK etc.
+
+----------------------------------------------------------------------------------------
+To do :
+
+If there a LHCb measurement that constrains Susy because phi_s seems a bit lousy ?
+Bs--> mumum https://indico.cern.ch/event/279518/session/14/contribution/84/attachments/511696/706285/Kamenik_LHCP2014_3.pdf
+ex : slide 33.
+
+Investigate further P'5
+
+Search if there is a LFV paper in LHCb with B decays to have lepto-quark stuff.
+For example : http://arxiv.org/pdf/1507.07163v1.pdf
+
+https://indico.cern.ch/event/100963/session/12/contribution/79/attachments/4176/6226/altmannshofer.pdf
